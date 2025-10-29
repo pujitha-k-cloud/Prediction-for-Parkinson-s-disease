@@ -1,4 +1,4 @@
-# 🧠 Parkinson's Disease Prediction Using Machine Learning
+# 🧠 Prediction for Parkinson's Disease  Using Machine Learning
 
 **Author:** Pujitha  
 **Date:** November 2025  
