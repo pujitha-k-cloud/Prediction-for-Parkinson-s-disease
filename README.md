@@ -62,5 +62,9 @@ This model is for **educational and research purposes only**.
 Always consult medical professionals for diagnosis and treatment of Parkinson’s disease.
 
 ---
-
+## TRY ON FROM YOUR SIDE
+I am uploading a sample data,to check on the code
+    [160.0,210.0,100.0,0.0105,0.00008,0.005,0.0055,0.015,0.035,0.300,0.020,0.025,0.030,0.065,0.050,18.0,0.62,0.75,-4.9,0.30,2.35,0.45]
+   This is the sample data , add these features to check the output and make it more intresting by adding new things..
+                         ----HAPPY CODING-----
 
